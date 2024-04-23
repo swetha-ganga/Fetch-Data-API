@@ -1,0 +1,64 @@
+  img{
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+    border: 2px solid black;
+
+    }  
+     .row{
+        /* width: 300px;
+        height: 280px; */
+         /* border: 2px solid black;  */
+        text-align: center;
+        /* display: flex;
+        justify-content: space-between; */
+        
+    } 
+
+    .ggg{
+        border: 2px solid black;
+        border-radius: 40px;
+        width: 300px;
+        height: 300;
+        background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+color: white;
+       
+    }
+.d{
+    width: 200px;
+    padding: 10px;
+    border: 2px solid black;
+    
+    
+}
+.d.img{
+    width: 200px;
+    padding-right: 10px;
+}
+
+
+    .logasri{
+             display: flex;
+             gap: 40px;
+             flex-wrap: wrap;
+             justify-content: space-around;
+            
+    }
+/* 
+     .container-fluid{
+        background-color: aquamarine;
+        display: flex;
+    } 
+    #result{
+        display: flex;
+        background-color: blueviolet;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+ */
+
+
+
+
+    
